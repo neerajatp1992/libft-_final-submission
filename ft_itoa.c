@@ -6,7 +6,7 @@
 /*   By: netheloo <netheloo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/25 12:54:47 by netheloo          #+#    #+#             */
-/*   Updated: 2026/03/27 15:07:07 by netheloo         ###   ########.fr       */
+/*   Updated: 2026/03/29 16:50:46 by netheloo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int	ft_numlen(int nb)
+static int	ft_numlen(int nb)
 {
 	int	i;
 
